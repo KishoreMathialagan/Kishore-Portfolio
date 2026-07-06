@@ -1,0 +1,6 @@
+{
+  "name": "Kishore Mathialagan Portfolio",
+  "description": "An interactive, minimalist, and highly polished portfolio for Kishore Mathialagan, a Digital Marketer and Creative Specialist specializing in AI-assisted content creation, brand growth, and social media management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
